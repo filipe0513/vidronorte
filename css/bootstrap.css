@@ -1,4 +1,4 @@
-@import url("//fonts.googleapis.com/css?family=Lato:400,700,900,400italic");
+@import url("http://fonts.googleapis.com/css?family=Lato:400,700,900,400italic");
 
 /*!
  * Bootstrap v3.0.0
@@ -4303,12 +4303,6 @@ textarea.input-group-sm > .input-group-btn > .btn {
 
 .navbar:after {
   clear: both;
-}
-
-@media (min-width: 768px) {
-  .navbar {
-    border-radius: 4px;
-  }
 }
 
 .navbar-header:before,
