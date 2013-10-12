@@ -37,3 +37,13 @@
 #footer .address ul strong {
 	color: #fff;
 }
+
+.navbar.navbar-inverse {
+	background: rgba(200, 20, 20, 0.7);
+	border-bottom: 1px solid #9C5858;
+}
+
+.navbar.sticky {
+	background: rgba(200, 20, 20, 0.8);
+	border-bottom: 1px solid #580303;
+}
