@@ -1,0 +1,39 @@
+
+.one-line {
+  margin-top: 8px;
+}
+
+#showcase .features_op1_row .feature .text h6 {
+	font-size: 18px;
+}
+
+#footer {
+	min-height: inherit;	 
+}
+
+#footer .credits {
+	border-top: 0;
+	padding: 10px 0px 35px 0px;
+}
+
+#footer .copyright {
+	border-top: 1px solid #343437;
+	padding-top: 30px;
+}
+
+#footer .address {
+	text-align: center;
+}	
+
+#footer .address ul {
+	list-style: none;
+	padding-left: 0; 
+}
+
+#footer .address ul {
+	color: #a6a6a7;
+}
+
+#footer .address ul strong {
+	color: #fff;
+}
