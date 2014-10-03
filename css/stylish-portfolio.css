@@ -160,24 +160,24 @@ hr.small {
     width: 100%;
     height: 100%;
     /*color: #0c4777;*/
-    color: #FFFFFF;
+    /*color: #da241d;*/
     max-height: 500px;
-    background: url(../img/bg-varejao-do-viraceiro.jpg) no-repeat center center scroll;
+    background: url(../img/bg-vidronorte.jpg) no-repeat bottom center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
 }
 
-.varejao-logo {
-    background: url('../img/varejao-do-viraceiro-logo.png') top right no-repeat;
+.vidronorte-logo {
+    background: url('../img/logo-vidronorte.png') top center no-repeat;
     margin: auto;
 }
 
-.header .varejao-logo {
-    background-size:  336px 158px;
-    width: 387px;
-    height: 158px;
+.header .vidronorte-logo {
+    background-size:  402px 116px;
+    width: 402px;
+    height: 116px;
 }
 /* About */
 
@@ -189,7 +189,7 @@ hr.small {
 
 .services {
     padding: 50px 0;
-    background: #00aeef;
+    background: #CA4242;
 }
 
 .service-item {
@@ -262,10 +262,10 @@ hr.small {
 
 /* Footer */
 
-footer .varejao-logo {
-    background-size:  187px 88px;
-    width: 226px;
-    height: 88px;
+footer .vidronorte-logo {
+    background-size:  201px 58px;
+    width: 201;
+    height: 58px;
     margin-bottom: 10px;
 }
 
@@ -283,10 +283,10 @@ footer .varejao-logo {
     h3, .h3 {
         font-size: 20px;
     }
-    .header .varejao-logo {
-        background-size:  224px 105px;
-        width: 258px;
-        height: 105px;
+    .header .vidronorte-logo {
+        background-size: 402px 116px;
+        width: 416px;
+        height: 116px;
     }
 
     .map {
