@@ -169,13 +169,21 @@ hr.small {
     -o-background-size: cover;
 }
 
+.header h1 {
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 1.1;
+}
+.header h3 {
+    margin-top:  10px;
+}
+
 .vidronorte-logo {
-    background: url('../img/logo-vidronorte.png') top center no-repeat;
     margin: auto;
 }
 
-.header .vidronorte-logo {
-    background-size:  402px 116px;
+.header .vidronorte-logo img{
     width: 402px;
     height: 116px;
 }
@@ -262,8 +270,7 @@ hr.small {
 
 /* Footer */
 
-footer .vidronorte-logo {
-    background-size:  201px 58px;
+footer .vidronorte-logo img {
     width: 201;
     height: 58px;
     margin-bottom: 10px;
@@ -283,8 +290,7 @@ footer .vidronorte-logo {
     h3, .h3 {
         font-size: 20px;
     }
-    .header .vidronorte-logo {
-        background-size: 402px 116px;
+    .header .vidronorte-logo img{
         width: 416px;
         height: 116px;
     }
